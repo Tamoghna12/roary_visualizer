@@ -46,6 +46,7 @@ Make sure you have Python 3.8 or later installed. The following Python libraries
 - seaborn
 - plotly
 - biopython
+- kaleido
 
 ### Setup
 
