@@ -89,7 +89,7 @@ Make sure you have Python 3.8 or later installed. The following Python libraries
    Launch the Streamlit app using the following command:
 
    ```bash
-   streamlit run app.py
+   streamlit run visualizer.py
    ```
 
 2. **Upload Roary Output Files**
