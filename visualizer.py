@@ -712,7 +712,7 @@ def main():
         ### About Roary Output Visualizer
         
         This application is designed to visualize the output from the Roary pangenome analysis pipeline.
-        
+        This is created by Tamoghna Das please cite this while using it.
         **Features:**
         - Interactive visualizations of gene distribution
         - Pangenome category analysis
